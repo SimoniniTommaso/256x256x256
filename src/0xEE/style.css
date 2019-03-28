@@ -52,8 +52,13 @@ h1{
     color: white;
     margin-left:32px;
     margin-top: 10px;
-    text-decoration-color: white;
-    
-    
-    
+    text-decoration-color: white;  
+}
+
+#Submit{
+    margin-left: 103px;
+    border-radius: 10px;
+}
+.hide{
+    display: none;
 }
